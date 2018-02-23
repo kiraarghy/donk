@@ -2,7 +2,7 @@
   "name": "donk",
   "version": "1.1.0",
   "description": "Put a donk on it.",
-  "main": "index.js",
+  "main": "donk.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
